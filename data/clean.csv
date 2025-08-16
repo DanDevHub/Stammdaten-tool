@@ -1,0 +1,8 @@
+id,name,email,role,start_date,active
+101,Anna Müller,anna.mueller@example.com,Technik,2023-01-15,True
+102,Max Meier,max.meier@example.com,Planung,2023-10-02,True
+103,nan,lena.schmidt@example.com,Technik,2023-01-03,True
+105,Sara Yilmaz,sara.yilmaz@example.com,IT,2023-05-04,True
+106,Ali Özdemir,ali.ozdemir@example.com,Planung,2023-05-15,True
+107,Monika Klein,monika.klein@example.com,nan,2023-01-06,True
+109,Peter Pan,peter.pan@example.com,IT,2023-10-07,False

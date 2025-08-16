@@ -1,0 +1,3 @@
+id,name,email,role,start_date,active,error
+104,Lukas König,lukas.invalidmail,IT,2023-03-20,False,invalid_email
+108,Jonas Bauer,jonas.bauer@example.com,Technik,,True,invalid_start_date
